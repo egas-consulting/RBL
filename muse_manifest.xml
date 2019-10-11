@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rbl.com" resolutions="1x" timestamp="1570802418009">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rbl.com" resolutions="1x" timestamp="1570803021303">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="55698079" ref="index"/>
+    <file name="index.css" crc="4009378947" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="people-312122.svg" crc="3770965619" seo="true" mt="1570785931000"/>
@@ -76,5 +76,5 @@
     </file>
     <file name="rbl_logo_transparent_1_poster_.png" crc="3988862747" ref="index"/>
   </folder>
-  <file name="index.html" crc="424520287" seo="true" mt="1570802392639" redirect="true"/>
+  <file name="index.html" crc="3761038543" seo="true" mt="1570802981624" redirect="true"/>
 </manifest>

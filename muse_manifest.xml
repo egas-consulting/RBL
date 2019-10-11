@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rbl.com" resolutions="1x" timestamp="1570790718007">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rbl.com" resolutions="1x" timestamp="1570798224384">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="517490493" ref="index"/>
+    <file name="index.css" crc="4002926125" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="people-312122.svg" crc="3770965619" seo="true" mt="1570785931000"/>
@@ -20,23 +20,23 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="repatriot 1.jpg" crc="171336475" seo="true" ref="index">
+    <file name="1.jpg" crc="4059280850" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="dsc_3290-1-.jpg" crc="175863764" seo="true" ref="index">
+    <file name="2.jpg" crc="415336135" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_5855-989x583.jpg" crc="315897013" seo="true" ref="index">
+    <file name="3.jpg" crc="4231659817" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="news_109.jpg" crc="277595157" seo="true" ref="index">
+    <file name="4.jpg" crc="277143465" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rbs_dungaciu_9-700x467.jpg" crc="207238150" seo="true" ref="index">
+    <file name="5.jpg" crc="3851499975" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="news_10256.jpg" crc="4193565196" seo="true" ref="index">
+    <file name="6.jpg" crc="3904657123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -44,19 +44,46 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="background_1_poster_.png" crc="4291510501" ref="index"/>
-    <file name="rbl_logo_transparent.svg" crc="465381992" seo="true" ref="index">
+    <file name="poza-crop-u2622.jpg" crc="236260131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rbl_logo_transparent_poster_.png" crc="408608798" ref="index"/>
-    <file name="poza-crop-u2490.jpg" crc="162131847" seo="true" ref="index">
+    <file name="poza-crop-u2590.jpg" crc="236260131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u2590.jpg" crc="162131847" seo="true" ref="index">
+    <file name="poza-crop-u2490.jpg" crc="236260131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u2622.jpg" crc="162131847" seo="true" ref="index">
+    <file name="poza-crop-u3326.jpg" crc="236260131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="poza-crop-u3351.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u3376.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u3423.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u3448.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u3473.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2639-9.png" crc="4031419105" ref="index"/>
+    <file name="u2607-7.png" crc="3928277174" ref="index"/>
+    <file name="u2498-14.png" crc="4048825161" ref="index"/>
+    <file name="u3338-8.png" crc="215803946" ref="index"/>
+    <file name="u3363-8.png" crc="3809287160" ref="index"/>
+    <file name="u3388-8.png" crc="4168219340" ref="index"/>
+    <file name="u3435-18.png" crc="119241763" ref="index"/>
+    <file name="u3460-12.png" crc="311753004" ref="index"/>
+    <file name="u3485-10.png" crc="202416157" ref="index"/>
+    <file name="rbl_logo_transparent_1.svg" crc="4290666904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rbl_logo_transparent_1_poster_.png" crc="3988862747" ref="index"/>
   </folder>
-  <file name="index.html" crc="4228985912" seo="true" mt="1570790704547" redirect="true"/>
+  <file name="index.html" crc="3850942838" seo="true" mt="1570798074739" redirect="true"/>
 </manifest>

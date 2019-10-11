@@ -1,0 +1,62 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rbl.com" resolutions="1x" timestamp="1570790718007">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="517490493" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="people-312122.svg" crc="3770965619" seo="true" mt="1570785931000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="repatriot 1.jpg" crc="171336475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc_3290-1-.jpg" crc="175863764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_5855-989x583.jpg" crc="315897013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news_109.jpg" crc="277595157" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rbs_dungaciu_9-700x467.jpg" crc="207238150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news_10256.jpg" crc="4193565196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="background_1.svg" crc="4224039404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_1_poster_.png" crc="4291510501" ref="index"/>
+    <file name="rbl_logo_transparent.svg" crc="465381992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rbl_logo_transparent_poster_.png" crc="408608798" ref="index"/>
+    <file name="poza-crop-u2490.jpg" crc="162131847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u2590.jpg" crc="162131847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u2622.jpg" crc="162131847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4228985912" seo="true" mt="1570790704547" redirect="true"/>
+</manifest>

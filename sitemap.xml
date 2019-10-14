@@ -2,59 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://rbl.com/index.html</loc>
-    <lastmod>2019-10-11</lastmod>
+    <lastmod>2019-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://rbl.com/images/1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/background.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/poza-crop-u2622.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/poza-crop-u2590.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/poza-crop-u2490.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/poza-crop-u3326.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/poza-crop-u3351.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/poza-crop-u3376.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/poza-crop-u3423.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/poza-crop-u3448.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rbl.com/images/poza-crop-u3473.jpg</image:loc>
-    </image:image>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://rbl.com/phone/index.html"/>
     <image:image>
       <image:loc>http://rbl.com/images/rbl_logo_transparent_1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/1-crop-u4183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/2-crop-u4301.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/3-crop-u4321.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/4-crop-u4341.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/5-crop-u4361.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/6-crop-u4381.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/background_desktop.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/poza-crop-u4565.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/poza-crop-u4559.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/poza-crop-u4557.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/poza-crop-u4567.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/poza-crop-u4563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/poza-crop-u4561.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/poza-crop-u4555.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rbl.com/images/poza-crop-u4553.jpg</image:loc>
     </image:image>
   </url>
   <url>

@@ -1,80 +1,133 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rbl.com" resolutions="1x" timestamp="1570803021303">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rbl.com" resolutions="1x" timestamp="1571047137213">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4009378947" ref="index"/>
+    <file name="index.css" crc="206218763" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="people-312122.svg" crc="3770965619" seo="true" mt="1570785931000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="1.jpg" crc="4059280850" seo="true" ref="index">
+    <file name="1.jpg" crc="4059280850" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="2.jpg" crc="415336135" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="2.jpg" crc="415336135" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3.jpg" crc="4231659817" seo="true" ref="index">
+    <file name="3.jpg" crc="4231659817" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4.jpg" crc="277143465" seo="true" ref="index">
+    <file name="4.jpg" crc="277143465" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5.jpg" crc="3851499975" seo="true" ref="index">
+    <file name="5.jpg" crc="3851499975" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6.jpg" crc="3904657123" seo="true" ref="index">
+    <file name="6.jpg" crc="3904657123" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="background.svg" crc="4121474611" seo="true" ref="index">
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="background.svg" crc="4121474611" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="background_poster_.png" crc="3794579573" ref="index"/>
-    <file name="poza-crop-u2622.jpg" crc="236260131" seo="true" ref="index">
+    <file name="background_poster_.png" crc="3794579573" ref="phone>index"/>
+    <file name="poza-crop-u2622.jpg" crc="236260131" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u2590.jpg" crc="236260131" seo="true" ref="index">
+    <file name="poza-crop-u2590.jpg" crc="236260131" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u2490.jpg" crc="236260131" seo="true" ref="index">
+    <file name="poza-crop-u2490.jpg" crc="236260131" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u3326.jpg" crc="236260131" seo="true" ref="index">
+    <file name="poza-crop-u3326.jpg" crc="236260131" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u3351.jpg" crc="236260131" seo="true" ref="index">
+    <file name="poza-crop-u3351.jpg" crc="236260131" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u3376.jpg" crc="236260131" seo="true" ref="index">
+    <file name="poza-crop-u3376.jpg" crc="236260131" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u3423.jpg" crc="236260131" seo="true" ref="index">
+    <file name="poza-crop-u3423.jpg" crc="236260131" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u3448.jpg" crc="236260131" seo="true" ref="index">
+    <file name="poza-crop-u3448.jpg" crc="236260131" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="poza-crop-u3473.jpg" crc="236260131" seo="true" ref="index">
+    <file name="poza-crop-u3473.jpg" crc="236260131" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rbl_logo_transparent_1.svg" crc="4290666904" seo="true" ref="index">
+    <file name="rbl_logo_transparent_1.svg" crc="4290666904" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rbl_logo_transparent_1_poster_.png" crc="3988862747" ref="index"/>
+    <file name="rbl_logo_transparent_1_poster_.png" crc="3988862747" ref="phone>index"/>
+    <file name="1-crop-u4183.jpg" crc="186875929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u4301.jpg" crc="188264370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u4321.jpg" crc="39137245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u4341.jpg" crc="4085369167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u4361.jpg" crc="422635483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u4381.jpg" crc="4209188917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_desktop.svg" crc="371702530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_desktop_poster_.png" crc="4151148096" ref="index"/>
+    <file name="poza-crop-u4565.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u4559.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u4557.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u4567.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u4563.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u4561.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u4555.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poza-crop-u4553.jpg" crc="236260131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3761038543" seo="true" mt="1570802981624" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4177306318" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4032631960" seo="true" mt="1571047069613" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="14051940" seo="true" mt="1571047013320" redirect="true"/>
 </manifest>
